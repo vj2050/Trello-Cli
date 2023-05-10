@@ -1,8 +1,8 @@
 # Trello-Cli
-I have created a CLI program to Create and update the trello cards.
+I have created a CLI program to Create and Update cards in Trello.
 
 User Instructions:
-1. Please run the Python file in the program.
+1. Please run the the main method in the program.
 2. If you select to create a card, the program will display the lists that you can create the card in. 
 3. Give the user inputs prompted in the command line. This will create the card for you on the Trello board in the specified list.
 4. If you select the option to update an already existing card, the program will display the list of cards you can update.
