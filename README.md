@@ -9,8 +9,11 @@ User Instructions:
 5. Follow step 3 to update the card.
 
 Further Updates:
-This is a very baseline program. The further steps can be:
+This is a very baseline program. The further development steps can be:
 1. The program can be divided into multiple files, so that if we want to add more functionalities, it remains in different files and is modular.
 2. Although the code handle the different input types, we can still add checks on inputs like Date, if the ID's given as input are correct.
+
+Estimated time taken on this task :
+~4 hours, setting up the Power-Up to retreive the api key and token consumed a major chunk of time.
 
 
